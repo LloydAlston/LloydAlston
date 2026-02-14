@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m a Master’s student in International Automotive Engineering with a growing interest in automotive software and intelligent systems. I’m currently working on a personal Bearing Condition Monitoring project focused on fault detection using sensor data. Previously, I developed a multi-modal driver drowsiness detection system using late-fusion architecture and vision-based metrics. I’m continuously improving my programming skills and exploring real-time automotive applications
 
 
