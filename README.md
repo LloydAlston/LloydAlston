@@ -1,5 +1,16 @@
 #  About Me:
-I'm a Master's student in International Automotive Engineering at THI Ingolstadt, specialising in Vehicle Safety. My background includes thermo-mechanical simulation of SiC power modules, autonomous systems research with ROS2, and hands-on prototyping with electrical drive systems. I have a published journal paper, a pending patent, and I enjoy working across the full stack from CAD and FEA to Python and real-time sensor integration.
+# Hi, I'm Lloyd
+
+I build things that sit at the boundary of mechanical and intelligent systems —
+from FEA of power electronics to real-time driver monitoring with cameras and LLMs.
+
+Currently: M.Eng. Automotive Engineering @ THI Ingolstadt, specialising in Vehicle Safety.
+Previously: Junior Research Fellow @ NIT Karnataka, building autonomous vehicle platforms.
+
+I've published one paper, have a pending patent, and hold a Ham Radio licence (VU3HXY).
+When I'm not engineering, I'm probably building an antenna or printing something.
+
+Based in Ingolstadt 
 
 
 ## 🌐 Socials:
