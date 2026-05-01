@@ -7,7 +7,7 @@ from FEA of power electronics to real-time driver monitoring with cameras and LL
 Currently: M.Eng. Automotive Engineering @ THI Ingolstadt, specialising in Vehicle Safety.
 Previously: Junior Research Fellow @ NIT Karnataka, building autonomous vehicle platforms.
 
-I've published one paper, have a pending patent, and hold a Ham Radio licence (VU3HXY).
+I've published one paper, have a published patent, and hold a Ham Radio licence (VU3HXY).
 When I'm not engineering, I'm probably building an antenna or printing something.
 
 Based in Ingolstadt 
